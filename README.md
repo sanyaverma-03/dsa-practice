@@ -9,7 +9,7 @@ This repository contains my personal solutions to the popular Striver’s A2Z DS
 - ✅ Step 3: Arrays
 - ✅ Step 4: Binary Search
 - ✅ Step 5: Strings
-- Step 6: Linked List
+- Step 6: Linked List (Ongoing)
 - Step 7: Recursion
 - Step 8: Bit Manipulaton
 - Step 9: Stacks & Queues
