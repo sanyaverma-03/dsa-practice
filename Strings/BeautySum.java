@@ -1,5 +1,5 @@
 /*
-Problem: String Beauty Sum
+Problem: Sum of Beauty of All substrings
 Link: https://leetcode.com/problems/sum-of-beauty-of-all-substrings/description/
 
 Description:
